@@ -1,6 +1,10 @@
-this is a fake send coins page for donors on your tiktok live, below you will have 2 codes, one will be in Romanian and the second in English 
+# Fake Send Coins Page for TikTok Live Donors
 
-# indexro.html
-# indexen.html
+This repository contains a sample "Send Coins" page designed for use on your TikTok live streams. Below, you'll find two HTML files, one in Romanian and the other in English. Feel free to customize the text to fit your needs.
 
-> You can edit the texts easily
+## Files
+
+- **`indexro.html`**: The Romanian version of the page.
+- **`indexen.html`**: The English version of the page.
+
+> **Note:** You can easily edit the texts in these files to tailor them to your preferences.
